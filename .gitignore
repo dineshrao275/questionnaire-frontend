@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Lock files
+package-lock.json
